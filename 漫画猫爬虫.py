@@ -178,8 +178,3 @@ def main(url):
 if __name__ == "__main__":
     url = input("请输入漫画页URL: ").strip()
     main(url)
-
-# https://www.maofly.com/author/1705.html不可直接用 板垣惠介
-# https://www.maofly.com/author/415.html不可直接用 黄玉郎
-# https://www.maofly.com/manga/10819.html 圣痕炼金士
-# https://www.maofly.com/manga/11229.html 8,8
