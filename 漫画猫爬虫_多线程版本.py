@@ -201,21 +201,4 @@ if __name__ == "__main__":
     url = input("请输入漫画页URL: ").strip()
     page = 0
     main(url)
-
-# https://www.maofly.com/author/1705.html 不可直接用 板垣惠介
-# https://www.maofly.com/author/415.html 不可直接用 黄玉郎
-# https://www.maofly.com/author/102.html 手冢治虫
-# https://www.maofly.com/manga/4598.html 鬼太郎
-# https://www.maofly.com/manga/13879.html 鬼太郎妖怪千物语
-# https://www.maofly.com/author/1316.html 矢吹健太朗
-# https://www.maofly.com/manga/19599.html 希德尼娅的骑士
-# https://www.maofly.com/manga/844.html 葬送的芙莉莲
-# https://www.maofly.com/manga/11400.html 功夫旋风儿
-# https://www.maofly.com/manga/10226.html 家庭教师
-# https://www.maofly.com/author/15145.html タイザン5
-# https://www.maofly.com/manga/21947.html 超能力美空
-# https://www.maofly.com/manga/36790.html 超能力少女
-
-
-
-
+    
